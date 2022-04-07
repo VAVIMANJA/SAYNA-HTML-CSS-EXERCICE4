@@ -1,0 +1,29 @@
+header{
+    background-color: #B11313;
+    display: flex;
+}
+.liens{
+    padding-left: 260%;
+    justify-content: space-between;
+    display: flex;
+}
+.a{
+    background-color: #FFFFFF;
+}footer{
+    background-color: #000000;
+}
+
+.logo{
+    border-radius: 50%;
+}
+section{
+    background-image: url(Exo4/Illustration/img35.png);
+    height: 600px;
+    background-size: cover;
+    background-position: relative;  
+    background-repeat: no-repeat;  
+}
+.hrf{
+   list-style-type: none;
+   color: white;
+}

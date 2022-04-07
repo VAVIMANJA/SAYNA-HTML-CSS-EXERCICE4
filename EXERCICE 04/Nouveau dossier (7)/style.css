@@ -1,0 +1,33 @@
+header{
+    background-color: #114C92;
+    display: flex;
+    justify-content: space-between;
+}
+.liens{
+    padding-left: 260%;
+    justify-content: space-between;
+    display: flex;
+}
+.a{
+    background-color: #FFFFFF;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 260%;
+}   
+ .photos1{
+        background-image: url(Exo4/Illustration/img19.png);
+        height: 600px;
+        background-size: cover;
+        background-position: relative;  
+
+}       
+.photos2{
+    background-image: url(Exo4/Illustration/img20.png);
+    height: 600px;
+    background-size: cover;
+    background-position: relative; 
+ } 
+ .bleue{
+     background-color: #114C92;
+
+ }
